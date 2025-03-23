@@ -1,0 +1,60 @@
+Job Title: Fullstack App Developer (Flutter)
+Location: Mountain View, CA; New York, NY; Seattle, WA; Remote (U.S.)
+Type: Full-Time
+
+About the Job
+At Google, we build products that organize the world’s information and make it universally accessible. As a Fullstack App Developer (Flutter), you’ll design and implement cutting-edge applications that impact billions of users. Leveraging Flutter’s cross-platform capabilities, you’ll craft seamless frontend experiences and scalable backend systems while collaborating with cross-functional teams to solve complex challenges.
+
+Responsibilities
+Fullstack Development: Design, develop, and maintain end-to-end applications using Flutter (Dart) for frontend and backend services (e.g., Node.js, Python, Go, or Java).
+
+Cross-Platform UI/UX: Build responsive, high-performance interfaces for iOS, Android, and web, ensuring consistency across platforms.
+
+Backend Integration: Develop RESTful APIs, integrate third-party services, and manage databases (SQL/NoSQL, Firebase).
+
+Performance Optimization: Identify and resolve bottlenecks for speed, scalability, and security.
+
+Collaboration: Partner with UX/UI designers, product managers, and engineers to translate requirements into technical solutions.
+
+Testing & DevOps: Write unit/integration tests and implement CI/CD pipelines (e.g., GitHub Actions, Google Cloud Build).
+
+Innovation: Stay ahead of industry trends and advocate for Flutter best practices.
+
+Minimum Qualifications
+Bachelor’s degree in Computer Science or equivalent practical experience.
+
+3+ years of fullstack development experience.
+
+Flutter Expertise: Proficient in Dart, widget lifecycle, state management (Provider/Bloc), and cross-platform deployment.
+
+Backend Skills: Experience with server-side frameworks (Node.js, Python, Go) and cloud platforms (Google Cloud, AWS).
+
+Database Knowledge: SQL (PostgreSQL, MySQL) and NoSQL (Firestore, MongoDB).
+
+API Design: RESTful services, GraphQL, and authentication (OAuth, JWT).
+
+Tools: Git, Agile/Scrum, and test-driven development (TDD).
+
+Preferred Qualifications
+Contributions to open-source Flutter projects or published apps on Play Store/App Store.
+
+Experience with Firebase (Auth, Cloud Functions, Analytics) and Flutter Web.
+
+Advanced cloud skills (Kubernetes, Docker, serverless architectures).
+
+Familiarity with CI/CD tools (Jenkins, CircleCI) and monitoring (Google Analytics, Crashlytics).
+
+Why Join Google
+Impact: Build products used by billions worldwide.
+
+Innovation: Work with cutting-edge tech in a forward-thinking environment.
+
+Culture: Collaborative teams that celebrate diversity and creativity.
+
+Benefits: Competitive salary, equity, health plans, and wellness programs.
+
+How to Apply
+Submit your resume and portfolio (GitHub, published apps) through our careers portal. Highlight Flutter projects and fullstack contributions.
+
+Google is proud to be an equal opportunity workplace. We value diversity and inclusion, and we hire based on merit, need, and competence.
+

@@ -1,0 +1,66 @@
+Job Title: AI/ML Developer
+Location: [City, State] / Remote (Specify Regions)
+Type: Full-Time
+
+About the Role
+[Company Name] is at the forefront of leveraging artificial intelligence and machine learning to solve real-world challenges. As an AI/ML Developer, you’ll design, build, and deploy intelligent systems that transform data into actionable insights. You’ll work on cutting-edge projects, from natural language processing (NLP) to computer vision, and collaborate with cross-functional teams to integrate AI solutions into scalable products.
+
+Key Responsibilities
+Model Development: Design, train, and optimize machine learning models (supervised/unsupervised learning, deep learning, reinforcement learning) using frameworks like TensorFlow, PyTorch, or Keras.
+
+Data Engineering: Preprocess and analyze large datasets (structured/unstructured) using tools like Pandas, NumPy, and Spark.
+
+Algorithm Design: Implement and refine algorithms for tasks such as recommendation systems, predictive analytics, or anomaly detection.
+
+Deployment: Productionize ML models via APIs, microservices, or embedded systems using Docker, Kubernetes, or cloud platforms (AWS, GCP, Azure).
+
+Collaboration: Partner with data engineers, product managers, and domain experts to align AI solutions with business goals.
+
+Research: Stay updated with advancements in AI/ML (e.g., transformers, generative AI) and prototype innovative approaches.
+
+Ethics & Compliance: Ensure models adhere to fairness, transparency, and privacy standards (e.g., GDPR, Explainable AI).
+
+Minimum Qualifications
+Bachelor’s/Master’s in Computer Science, Data Science, AI, or related field.
+
+3+ years of hands-on experience in AI/ML development.
+
+Technical Skills:
+
+Proficiency in Python and ML libraries (Scikit-learn, XGBoost, OpenCV).
+
+Experience with deep learning architectures (CNNs, RNNs, Transformers).
+
+Familiarity with cloud AI services (AWS SageMaker, Google AI Platform).
+
+Strong understanding of statistics, linear algebra, and data visualization.
+
+Tools: Git, Jupyter Notebooks, SQL, and big data tools (Hadoop, Spark).
+
+Preferred Qualifications
+PhD in AI/ML or published research in top conferences (NeurIPS, ICML, CVPR).
+
+Experience with MLOps tools (MLflow, Kubeflow) and CI/CD pipelines.
+
+Knowledge of NLP (BERT, GPT) or computer vision (YOLO, GANs).
+
+Expertise in distributed computing and optimizing models for edge devices.
+
+Contributions to open-source AI projects (e.g., Hugging Face, TensorFlow Models).
+
+Why Join Us?
+Innovate: Work on groundbreaking projects that redefine industries.
+
+Growth: Access to learning resources, certifications, and mentorship.
+
+Impact: Deploy solutions used by millions globally.
+
+Culture: Collaborative, inclusive environment with flexible work options.
+
+Benefits: Competitive salary, stock options, health insurance, and wellness perks.
+
+How to Apply
+Submit your resume, cover letter, and portfolio (GitHub, Kaggle profile, or research papers) via our careers portal. Highlight projects where you designed, trained, and deployed AI/ML models.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
